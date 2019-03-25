@@ -1,6 +1,7 @@
 
 def countdown(num)
-  while
+  while num > 0
+  
 
 end
 
